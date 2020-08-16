@@ -31,7 +31,7 @@ class App extends Component {
         </text>
         <br />
         <text>
-          <em>(For a particular select a Country from below</em>
+          <em>(For a particular select a Country from below)</em>
         </text>
         <br />
         <br />
